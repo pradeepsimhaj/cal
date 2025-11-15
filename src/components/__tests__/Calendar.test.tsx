@@ -21,7 +21,6 @@ describe("Calendar Component – Advanced Tests", () => {
     expect(highlighted).toHaveClass("selected");
   });
 
-  // ✅ FIXED & STABLE TEST — Correct alignment check for May 2023
   test("dates align correctly for May 2023 (starts on Monday)", () => {
     render(<Calendar date={new Date(2023, 4, 1)} />);
 
