@@ -7,8 +7,12 @@ export default function CalendarCell({ day, selectedDay }: CellProps) {
   const isSelected = day === selectedDay;
 
   return (
-    <div className={`cal-cell ${isSelected ? "selected" : ""}`}>
-      {day}
-    </div>
+    <div
+  role="gridcell"
+  className={`cal-cell ${isSelected ? "selected" : ""}`}
+>
+  {day || ""}
+</div>
+
   );
 }
