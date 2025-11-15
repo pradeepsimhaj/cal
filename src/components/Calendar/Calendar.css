@@ -1,0 +1,39 @@
+.calendar-container {
+  width: 320px;
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+.cal-header h2 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 6px;
+}
+
+.cal-day-header {
+  font-weight: bold;
+  text-align: center;
+  padding: 6px 0;
+}
+
+.cal-cell {
+  border: 1px solid #eee;
+  padding: 10px 0;
+  text-align: center;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+.cal-cell.selected {
+  background-color: #2563eb;
+  color: white;
+  font-weight: bold;
+  border-color: #1d4ed8;
+}
