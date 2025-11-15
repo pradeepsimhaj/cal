@@ -1,0 +1,286 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Calendar Snapshot Tests > matches snapshot for October 2022 1`] = `
+<div>
+  <div
+    class="calendar-container"
+  >
+    <div
+      class="cal-header"
+    >
+      <h2>
+        October 2022
+      </h2>
+    </div>
+    <div
+      class="cal-grid"
+    >
+      <div
+        class="cal-day-header"
+      >
+        Sun
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Mon
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Tue
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Wed
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Thu
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Fri
+      </div>
+      <div
+        class="cal-day-header"
+      >
+        Sat
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        1
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        2
+      </div>
+      <div
+        class="cal-cell selected"
+        role="gridcell"
+      >
+        3
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        4
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        5
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        6
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        7
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        8
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        9
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        10
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        11
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        12
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        13
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        14
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        15
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        16
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        17
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        18
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        19
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        20
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        21
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        22
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        23
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        24
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        25
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        26
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        27
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        28
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        29
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        30
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      >
+        31
+      </div>
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+      <div
+        class="cal-cell "
+        role="gridcell"
+      />
+    </div>
+  </div>
+</div>
+`;
